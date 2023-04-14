@@ -1,0 +1,280 @@
+*{  /*resetar o navegador*/
+
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+
+}
+
+html, body{ 
+
+    font-family: Arial, Helvetica, sans-serif; /*fontes*/
+    color: black; /*cor da fonte*/
+    font-size: 62.5%;
+    text-rendering: optimizeLegibility;
+
+
+}
+
+
+div{
+
+display: inline-block;
+}
+
+
+/* BIG GAME SHOW */
+
+#Titulo{position: absolute;
+width: 25.3rem;
+height: 12.4rem;
+
+margin-left: 3%;
+margin-top: 3%;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 40rem;
+font-size: 4.8rem;
+line-height: 5.8rem;
+
+color: #000000;}
+
+
+
+#retangulo1 {position: absolute;
+width: 12.6rem;
+height: 7.3rem;
+margin-top: 20%;
+margin-left: 3%;
+
+background: #D9D9D9;}
+
+#retangulo2 {position: absolute;
+    width: 12.6rem;
+    height: 7.3rem;
+    margin-top: 30%;
+    margin-left: 3%;
+
+    background: #D9D9D9;}
+
+
+    #retangulo3 {position: absolute;
+        width: 12.6rem;
+        height: 7.3rem;
+        margin-top: 40%;
+        margin-left: 3%;
+
+        background: #D9D9D9;}
+
+
+        #retangulo4 {position: absolute;
+            width: 12.6rem;
+            height: 7.3rem;
+            margin-top: 50%;
+            margin-left: 3%;
+        
+
+            background: #D9D9D9;}
+
+
+            #p1{position: absolute;
+            width: 13.9rem;
+            height: 2.3rem;
+            
+            align-items: center;
+            font-family: Arial, Helvetica, sans-serif;
+            font-style: normal;
+            font-weight: 40rem;
+            font-size: 2.4rem;
+            line-height: 2.9rem;
+            
+            color: #000000;
+        
+            margin-top: 22%;
+            margin-left: 15%;
+    
+        
+        }
+
+
+        #p2{position: absolute;
+            width: 13.9rem;
+            height: 2.3rem;
+            
+            align-items: center;
+            font-family: Arial, Helvetica, sans-serif;
+            font-style: normal;
+            font-weight: 40rem;
+            font-size: 2.4rem;
+            line-height: 2.9rem;
+            
+            color: #000000;
+        
+            margin-top: 32%;
+            margin-left: 15%;
+    
+        
+        }
+
+
+        #p3{position: absolute;
+            width: 13.9rem;
+            height: 2.3rem;
+            
+            align-items: center;
+            font-family: Arial, Helvetica, sans-serif;
+            font-style: normal;
+            font-weight: 40rem;
+            font-size: 2.4rem;
+            line-height: 2.9rem;
+            
+            color: #000000;
+        
+            margin-top: 42%;
+            margin-left: 15%;
+    
+        
+        }
+
+
+
+        #p4{position: absolute;
+            width: 13.9rem;
+            height: 2.3rem;
+            
+            align-items: center;
+            font-family: Arial, Helvetica, sans-serif;
+            font-style: normal;
+            font-weight: 40rem;
+            font-size: 2.4rem;
+            line-height: 2.9rem;
+            
+            color: #000000;
+        
+            margin-top: 52%;
+            margin-left: 15%;
+    
+        
+        }
+
+
+        #recomendacoes{
+            
+            position: absolute;
+            width: 14.7rem;
+            height: 1.5rem;
+            
+            font-family: Arial, Helvetica, sans-serif;
+            font-style: normal;
+            font-weight: 40rem;
+            font-size: 1.2rem;
+            line-height: 1.5rem;
+            color: #000000;
+            margin-left: 85%;
+            margin-top: 9%;
+            
+
+
+
+
+
+        }
+
+
+
+        #jogo1{position: absolute;
+        width: 10.7rem;
+        height: 11.2rem;
+        margin-top: 15%;
+        margin-left: 86%;
+        background: #D9D9D9;}
+
+        #jogo2{position: absolute;
+            width: 10.7rem;
+            height: 11.2rem;
+            margin-top: 30%;
+            margin-left: 86%;
+            background: #D9D9D9;}
+
+
+            #jogo3{position: absolute;
+                width: 10.7rem;
+                height: 11.2rem;
+                margin-top: 45%;
+                margin-left: 86%;
+                background: #D9D9D9;}
+
+
+
+ #sobre{
+
+position: absolute;
+width: 7.7rem;
+height: 1.9rem;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 40rem;
+font-size: 1.6rem;
+line-height: 1.9rem;
+
+margin-top: 7%;
+margin-left: 40%;
+
+color: #000000;
+    }
+
+    #faq{
+
+        position: absolute;
+        width: 7.7rem;
+        height: 1.9rem;
+        
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: 40rem;
+        font-size: 1.6rem;
+        line-height: 1.9rem;
+        
+        margin-top: 7%;
+        margin-left: 50%;
+        
+        color: #000000;
+            }
+
+            
+            #dicas{
+
+                position: absolute;
+                width: 7.7rem;
+                height: 1.9rem;
+                
+                font-family: Arial, Helvetica, sans-serif;
+                font-style: normal;
+                font-weight: 40rem;
+                font-size: 1.6rem;
+                line-height: 1.9rem;
+                
+                margin-top: 7%;
+                margin-left: 57%;
+                
+                color: #000000;
+                    }
+
+
+#linha{
+
+
+    position: absolute;
+    width: 67.4rem;
+    height: 0rem;
+    
+    border: 0.1rem solid #000000;
+    transform: rotate(90deg);
+    margin-top: 30%;
+    margin-left: 54%;
+
+}
+
